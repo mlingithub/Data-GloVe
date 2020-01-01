@@ -5,7 +5,7 @@ Pre-trained word vectors. This data is made available under the Public Domain De
 ## Data Sources
 ```
 .
-│   glove.6B.50d.csv    
+│   glove.6B.50d.txt 
 
 ```
 
